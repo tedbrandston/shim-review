@@ -138,6 +138,7 @@ If the shim binaries can't be reproduced using the provided Dockerfile, please e
 Which files in this repo are the logs for your build?   This should include logs for creating the buildroots, applying patches, doing the build, creating the archives, etc.
 -------------------------------------------------------------------------------
 [your text here]
+[build.log](./build.log)
 
 -------------------------------------------------------------------------------
 Add any additional information you think we may need to validate this shim
